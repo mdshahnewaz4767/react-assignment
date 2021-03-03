@@ -1,0 +1,91 @@
+[{
+    "id": 1,
+    "name": " Lionel Messi",
+    "salary": 772.35,
+    "team_name": "Barcelona",
+    "image": "http://www.gstatic.com/tv/thumb/persons/983712/983712_v9_ba.jpg"
+  }, {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "salary": 145.32,
+    "team_name": "Juventus F.C.",
+    "image": "https://www.bacitygh.com/wp-content/uploads/2020/01/ronaldo.jpg"
+  }, {
+    "id": 3,
+    "name": "Kevin De Bruyne",
+    "salary": 747.76,
+    "team_name": "Manchester City F.C.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kevin_De_Bruyne_201807091.jpg"
+  }, {
+    "id": 4,
+    "name": "Robert Lewandowski",
+    "salary": 551.13,
+    "team_name": "FC Bayern Munich",
+    "image": "https://images2.minutemediacdn.com/image/fetch/w_850,h_560,c_fill,g_auto,f_auto/https%3A%2F%2Fbayernstrikes.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2019%2F10%2F1168485252-850x560.jpeg"
+  }, {
+    "id": 5,
+    "name": "Harry Kane",
+    "salary": 897.82,
+    "team_name": "Tottenham Hotspur F.C.",
+    "image": "https://s.hs-data.com/bilder/spieler/gross/179293.jpg?fallback=png"
+  }, {
+    "id": 6,
+    "name": "Kylian Mbappe",
+    "salary": 377.22,
+    "team_name": "Paris Saint-Germain F.C. ",
+    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ece97421f4c83000768d7a7%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D954%26cropX2%3D4190%26cropY1%3D414%26cropY2%3D3648"
+  }, {
+    "id": 7,
+    "name": "Neymar",
+    "salary": 654.80,
+    "team_name": "Paris Saint-Germain F.C. ",
+    "image": "https://s.france24.com/media/display/fc38b2bc-b26c-11ea-b7b5-005056a964fe/w:980/p:16x9/2020-06-19T122447Z_1857599552_RC2CCH9IL1BR_RTRMADP_3_SOCCER-SPAIN-FCB-NEYMAR.webp"
+  }, {
+    "id": 8,
+    "name": "Sadio Mane",
+    "salary": 632.24,
+    "team_name": "Liverpool F.C.",
+    "image": "https://images.indianexpress.com/2020/01/sadio-mane.jpg"
+  }, {
+    "id": 9,
+    "name": "Virgil van Dijk",
+    "salary": 490.73,
+    "team_name": "Liverpool F.C.",
+    "image": "https://s.hs-data.com/bilder/spieler/gross/163624.jpg?fallback=png"
+  }, {
+    "id": 10,
+    "name": "Mohamed Salah",
+    "salary": 173.57,
+    "team_name": "Liverpool F.C.",
+    "image": "https://atalayar.com/sites/default/files/styles/foto_/public/noticias/Atalayar_Mohamed%20Salah%2C%20jugador%20del%20Liverpool%20%284%29.jpg?itok=oOHpI7RT"
+  }, {
+    "id": 11,
+    "name": "Karim Benzema",
+    "salary": 437.56,
+    "team_name": "Real Madrid C.F.",
+    "image": "https://images.daznservices.com/di/library/GOAL/52/d5/karim-benzema-real-madrid-2020-21_mn1zzr5h0k451qn0qd1kokl9w.jpg?t=1180596229&amp;quality=60&amp;w=700"
+  }, {
+    "id": 12,
+    "name": "Manuel Neuer",
+    "salary": 737.21,
+    "team_name": "FC Bayern Munich",
+    "image": "https://static.dw.com/image/53518754_303.jpg"
+  }, {
+    "id": 13,
+    "name": "Sergio Aguero",
+    "salary": 412.55,
+    "team_name": "Manchester City F.C.",
+    "image": "https://site-cdn.givemesport.com/images/21/02/21/c84d06fe3e2915539b75dbc68332786e/320.jpg"
+  }, {
+    "id": 14,
+    "name": "Alisson Becker",
+    "salary": 661.45,
+    "team_name": "Liverpool F.C.",
+    "image": "https://d3vlf99qeg6bpx.cloudfront.net/content/uploads/2021/02/26072048/alisson-1.jpg"
+  }, {
+    "id": 15,
+    "name": "Jan Oblak",
+    "salary": 644.67,
+    "team_name": "Atlético Madrid",
+    "image": "https://www.thechelseachronicle.com/static/uploads/17/2020/07/GettyImages-1254895656.jpg"
+  }]

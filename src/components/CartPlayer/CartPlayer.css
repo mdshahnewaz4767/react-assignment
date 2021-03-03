@@ -1,0 +1,11 @@
+.cartPlayer h3{
+    font-size: 1.2rem;
+}
+.cartPlayer{
+    box-shadow: 5px 5px 10px gray;
+    padding: 20px;
+    border-radius: 5px;
+}
+.cartPlayer span{
+    color: #1a0dab;
+}

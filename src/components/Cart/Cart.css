@@ -1,0 +1,14 @@
+.player-summery span{
+    color: #1a0dab;
+}
+.player-summery h3::after{
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    content: "";
+    width: 24%;
+    height:3px;
+    background-color: rgb(241, 160, 151);
+    border-radius:5px;
+}

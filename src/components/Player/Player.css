@@ -1,0 +1,31 @@
+.player-info{
+    display: inline-block;
+}
+.player-info p{
+    color: #202124;
+    font-weight: 500;
+}
+.player-info small{
+    color: #1a0dab;
+}
+.borders{
+    margin-bottom: 5px;
+    border-bottom: 2px solid salmon;
+    margin: 10px;
+}
+.player:last-child{
+    border-bottom: none !important;
+}
+.btn-outline-custom{
+    border: 2px solid salmon;
+    transition: .3s ease;
+}
+.btn-outline-custom:hover{
+    background-color: rgb(179, 91, 81);
+    color: white;
+}
+@media (max-width: 882px){
+    .player-info button{
+        margin-bottom: 1rem;
+    }
+}

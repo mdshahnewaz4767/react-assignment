@@ -1,0 +1,13 @@
+.players{
+    border-right: 2px solid salmon;
+}
+.player{
+    margin-bottom: 5px;
+    border-bottom: 2px solid salmon !important;
+    margin: 10px;
+}
+.player img{
+    height: 290px;
+    margin: 10px 0px;
+    width: 300px;
+}
